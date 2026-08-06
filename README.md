@@ -1,6 +1,8 @@
 # SDFModeler
  A free, open source SDF Modeling Toolset for Houdini!
 
+ UPDATE 2.0 - Now running on the GPU using OpenCL in Cops!
+
 You can find documentation and tutorials for the toolset [here](https://www.notion.so/dominiklange/SDF-Modeler-d965edcc82b64262ab4e5aed102daa12?pvs=4)!
 
 ## Installation
@@ -17,3 +19,6 @@ You can find documentation and tutorials for the toolset [here](https://www.noti
 ## Credit
 A good bit of the base code for the SDF operations were taken from https://mercury.sexy/hg_sdf/
 Thanks to the mercury team for releasing the code under the MIT license!
+
+## AI Disclaimer
+AI was used to translate my original VEX code into opencl along with a few other additions to the solver written in opencl (modifiers, and new groups structure)
