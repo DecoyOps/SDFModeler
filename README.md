@@ -17,7 +17,7 @@ You can find documentation and tutorials for the toolset [here](https://www.noti
 	Make sure to use ```"/"``` as seperators, not ```"\"``` otherwise it won't work.
 
 ## Credit
-A good bit of the base code for the SDF operations were taken from https://mercury.sexy/hg_sdf/
+A good bit of the base code for the SDF operations were taken from https://mercury.sexy/hg_sdf/ (The link sounds sketchy - but it's not - the team there just picked a quirky URL - it's just some SDF code)
 Thanks to the mercury team for releasing the code under the MIT license!
 
 ## AI Disclaimer
